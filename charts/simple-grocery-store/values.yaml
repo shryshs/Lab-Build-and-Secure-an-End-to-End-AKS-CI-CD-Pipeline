@@ -2,7 +2,7 @@
 
 # Global settings
 global:
-  imageRegistry: ""
+  imageRegistry: "acrvopgilt4fa.azurecr.io/"
 
 # Product service configuration
 productService:
